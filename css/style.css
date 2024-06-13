@@ -8474,7 +8474,10 @@ textarea.form-control {
   font-weight: 900; }
 
 .ps-fullwidth {
-  width: 100%; }
+  width: 415px;
+  height: 350px;
+  /* width: 100%;  */
+}
 
 .bg--parallax {
   position: relative;
@@ -8500,7 +8503,3 @@ textarea.form-control {
 
 /*# sourceMappingURL=style.css.map */
 
-.sunglasses{
-  width: 350px;
-  height: 415px;
-}
